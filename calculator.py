@@ -1,4 +1,4 @@
-print("=== SUPER CALCULATOR ===")
+print("=== CALCULATOR V2 ===")
 
 def add(a, b): return a + b
 
